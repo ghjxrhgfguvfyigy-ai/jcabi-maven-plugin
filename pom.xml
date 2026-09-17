@@ -188,6 +188,14 @@
       <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
+
+    <!-- Source: https://mvnrepository.com/artifact/net.dreamlu/mica-mqttx-client -->
+<dependency>
+    <groupId>net.dreamlu</groupId>
+    <artifactId>mica-mqttx-client</artifactId>
+    <version>3.2.4</version>
+    <scope>compile</scope>
+</dependency>
   </dependencies>
   <reporting>
     <plugins>
